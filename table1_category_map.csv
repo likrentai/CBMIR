@@ -1,0 +1,83 @@
+message,category,cluster_kmeans,onsets_full_log,onsets_june_2025
+AUX CAP MACH RM BLOW1 NOT OFF,Ventilation and cooling,0,1759,367
+VENTILATION ASCU3 DISTURBED,Ventilation and cooling,16,70,0
+BOGIE1 TXF OIL TEMPERATURE > LIMIT1,Ventilation and cooling,9,19,0
+TRANSFORMER PUMP2 MCB OPEN,Ventilation and cooling,10,12,0
+VENTILATION ASCU2 DISTURBED,Ventilation and cooling,16,6,0
+BOGIE2 TXF OIL TEMPERATURE > LIMIT1,Ventilation and cooling,9,5,0
+TRANSFORMER OIL PRESSURE NOT OK,Ventilation and cooling,9,5,0
+CONVERTER2 PUMP2 MCB OPEN,Ventilation and cooling,10,5,0
+BOGIE2 TRANSFORMER OIL PRESSURE NOT OKAY,Ventilation and cooling,9,4,0
+TRANSFORMER PUMP1 MCB OPEN,Ventilation and cooling,10,3,0
+CONVERTER1 PUMP MCB OPEN,Ventilation and cooling,10,2,0
+SCAV. OIL COOLER1 MCB OPEN,Ventilation and cooling,10,2,0
+SCAV. OIL COOLER2 MCB OPEN,Ventilation and cooling,10,2,0
+TM1 BLOWER MCB OPEN,Ventilation and cooling,10,2,0
+TM2 BLOWER2 MCB OPEN,Ventilation and cooling,10,2,0
+BOGIE1 TRANSFORMER OIL PRESSURE NOT OKAY,Ventilation and cooling,9,1,0
+S/R INTERLOCK - BRAKE COCK,Brakes and pneumatics,2,338,41
+S/R INTERLOCK - MAIN RES LOW,Brakes and pneumatics,9,231,35
+EMERGENCY PRESSURE SWITCH ACTING,Brakes and pneumatics,3,150,21
+S/R INTERLOCK - AUTO BRAKE,Brakes and pneumatics,2,71,5
+COMPRESSOR1 MCB OPEN,Brakes and pneumatics,10,48,8
+NO PRESSURE IN PANTO 1,Brakes and pneumatics,3,25,2
+S/R INTERLOCK - LOCO BRAKE,Brakes and pneumatics,2,24,9
+NO PRESSURE IN PANTO 2,Brakes and pneumatics,3,21,1
+BRAKE ELECTRONICS FAILED,Brakes and pneumatics,9,12,6
+COMPRESSOR2 MCB OPEN,Brakes and pneumatics,10,10,7
+BRAKE CHOPPER GATE LOW VOLTAGE FAULT,Traction and power conversion,5,342,0
+IC_DC LINK UNDER VOLTAGE,Traction and power conversion,6,267,0
+PHASE_CURRENT_IMBALANCE,Traction and power conversion,7,58,0
+LC ISOLATED DUE TO FAULT IN LC3,Traction and power conversion,12,40,5
+LC ISOLATED DUE TO FAULT IN LC1,Traction and power conversion,12,33,2
+DCLV CROSSED MAX LIMIT,Traction and power conversion,9,23,3
+RC_DC_LINK_UNDER_VOLTAGE,Traction and power conversion,9,22,0
+TE LIMITING IS ACTIVE,Traction and power conversion,9,21,4
+PWM SHUTDOWN DC LINK OVER VOLTAGE,Traction and power conversion,6,19,2
+ISOLATION OF PROCESSOR LC2,Traction and power conversion,14,17,0
+ISOLATION OF PROCESSOR LC4,Traction and power conversion,14,17,0
+ISOLATION OF PROCESSOR LC1,Traction and power conversion,14,15,0
+OVL OVER CURRENT,Traction and power conversion,9,14,3
+ISOLATION OF PROCESSOR LC3,Traction and power conversion,14,13,1
+PWM SHUTDOWN DC LINK UNDER VOLTAGE,Traction and power conversion,6,6,0
+WHEEL SLIP/SKIDDING AT BOGIE2,Traction and power conversion,9,6,0
+WHEEL SLIP/SKIDDING AT BOGIE1,Traction and power conversion,9,5,1
+REVERSER IGNORED SPEED HIGH,Traction and power conversion,9,5,1
+INVERTER GATE LOW VOLTAGE FAULT,Traction and power conversion,5,3,0
+INVERTER SHORT CKT,Traction and power conversion,9,3,0
+CURRENT CROSSED MAX LIMIT,Traction and power conversion,9,1,0
+BRAKE CHOPPER FAULTY,Traction and power conversion,9,1,0
+DEMANDED SPEED CAN NOT BE ACHIEVED,Traction and power conversion,9,1,0
+ISOLATION BOGIE1,Traction and power conversion,15,1,0
+ISOLATION BOGIE2,Traction and power conversion,15,1,0
+ISOLATION OF AUX CONVERTER3,Auxiliary converters and battery,15,157,0
+ISOLATION OF AUX CONVERTER2,Auxiliary converters and battery,15,33,0
+BATTERY CHARGER DC_LINK UNDER VOLTAGE FAULT,Auxiliary converters and battery,9,22,0
+BATTERY CHARGER DC_LINK UNDER VOLTAGE,Auxiliary converters and battery,9,22,0
+ISOLATION OF AUX CONVERTER1,Auxiliary converters and battery,15,6,0
+EARTH FAULT IN BATTERY CIRCUIT,Auxiliary converters and battery,13,4,0
+BATTERY VOLTAGE BELOW 92 VOLTS,Auxiliary converters and battery,9,1,0
+PRIMARY VOLTAGE BELOW MINIMUM,Power supply and main circuit,17,171,30
+AC INPUT FREQ DISTURBED,Power supply and main circuit,19,27,0
+INPUT LINE FREQUENCY PLL UNABLE TO LOCK,Power supply and main circuit,19,19,0
+AC INPUT OVER VOLTAGE,Power supply and main circuit,19,9,0
+FATAL ERROR IN MAIN CIRCUIT,Power supply and main circuit,9,8,0
+ISOLATION OF MAIN POWER,Power supply and main circuit,9,7,0
+SECONDARY INPUT OVER CURRENT,Power supply and main circuit,19,3,0
+VCB STUCK IN OFF POSITION,Power supply and main circuit,9,1,0
+DIO2_DOP13 STUCK AT 0,Control electronics,11,89,15
+DIO2_DIP2 STUCK AT 1,Control electronics,11,19,0
+DIO2_DIP8 STUCK AT 1,Control electronics,11,18,2
+DIO2_DOP7 STUCK AT 0,Control electronics,11,17,4
+ACC2 - ASCU3,Control electronics,16,13,0
+MCC2 - ASCU3,Control electronics,16,13,0
+ACC2 - ASCU2,Control electronics,9,10,0
+MCC2 - ASCU2,Control electronics,9,10,0
+BOGIE 1 NODE STUCK,Control electronics,11,6,1
+MCC1 - ASCU1,Control electronics,9,4,0
+DIO2_DIP10 STUCK AT 1,Control electronics,11,3,0
+DIO2_DIP1 STUCK AT 1,Control electronics,11,2,0
+BOGIE 2 NODE STUCK,Control electronics,11,2,0
+EMERGENCY STOP SHUTDOWN,Safety functions,3,86,15
+EMERGENCY BRAKE VIGILANCE,Safety functions,3,3,2
+FIRE ALARM,Safety functions,8,1,0
